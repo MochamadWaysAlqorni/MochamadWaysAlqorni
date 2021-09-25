@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MochamadWaysAlqorni
 - 👀 I’m interested in hardware and software development
 - 🌱 I’m currently learning python and micropyhton
-- 💞️ I’m looking to collaborate on python or any electronic hardware project
+- 💞️ I’m looking to collaborate on python or any software dev. and electronic hardware project
 - 📫 How to reach me WhatsApp +62-813-3101-7748 or mochways2@gmail.com
 
 <!---
